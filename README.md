@@ -1,14 +1,24 @@
-# Portfolio Responsive Complete
-## [Watch it on youtube](https://youtu.be/AKNvTxWOdKw)
-### Portfolio Responsive Complete
+# Himanshu's Portfolio Website
 
-- Responsive Personal Portfolio Website HTML CSS & JavaScript.
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+Welcome to my personal portfolio website! This project showcases my work, skills, and contact information as a Full Stack Developer.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+## 🚀 Features
 
-![preview img](/preview.png)
+- Responsive modern design
+- Hero section with animated blob image
+- About, Skills, Projects, and Work sections
+- Social media integration (LinkedIn, GitHub, Behance)
+- Contact form with functional layout
+- Optimized for mobile and desktop views
+
+## 🛠 Technologies Used
+
+- HTML5
+- CSS3 (Flexbox & Grid, Media Queries)
+- JavaScript
+- Boxicons (icon library)
+- [EmailJS](https://emailjs.com/) (optional for contact form)
+- SVG for blob-shaped profile image
+
+## 📁 Folder Structure
 
